@@ -3,6 +3,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,terraform
 
+
+keys
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
